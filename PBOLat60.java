@@ -1,3 +1,11 @@
+/**
+ *
+ * @author ACER
+ *NAMA              : Alivia Fatah Yumna
+ *KELAS             : PBO RegPagi
+ *NIM               : 22166016
+ *DESKRIPSI PROGRAM : Program Latihan 60
+ */
 class Karakter {
     private String nama;
     private String elemen;
